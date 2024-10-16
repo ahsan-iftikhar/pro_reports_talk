@@ -11,7 +11,7 @@
 
 ## About
 
-This is the companion repository for the lightning talk given December 9th, 2020. [LINK HERE](https://zoom.us/rec/share/7pRIYhe89H5cNzkwyEgNx2EBU9K0mzYCW3oH_RmRiqWTNJiTmD3n6TrYBgqc2Hwo.j4IdWV8SBW3s1wFc ), password: { 9np$u.=p }
+This is the companion repository for the lightning talk given December 9th, 2020. [YOUTUBE LINK HERE](https://www.youtube.com/watch?v=JsaGSrM8aZ0)
 
 [Meetup link](https://www.meetup.com/RStudio-Enterprise-Community-Meetup/events/274718908/)
 
@@ -120,5 +120,5 @@ pdfs in [finished\_reports](finished_reports).
 
 ## Contact
 
-Reach out to me at bradley.lindblad\[at\]gmail.com or my website
+Reach out to me at me\[at\]bradlindblad.com or my website
 [technistema.com](https://technistema.com).
